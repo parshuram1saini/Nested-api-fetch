@@ -1,0 +1,23 @@
+th {
+  border-bottom: 1px dotted rgb(248, 47, 47);
+
+  /* margin: 1%; */
+}
+td {
+  /* border-bottom-style: 1px solid; */
+  border-bottom: 1px solid #222;
+
+  /* margin: 1%; */
+}
+
+table {
+  /* text-align: center; */
+  margin-left: 18%;
+}
+
+.hidden {
+  display: none;
+}
+.visible {
+  display: block;
+}
